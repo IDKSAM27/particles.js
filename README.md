@@ -1,4 +1,4 @@
-## particles.js
+## particles.js (FORKED)
 
 ### A lightweight JavaScript library for creating particles.
 
